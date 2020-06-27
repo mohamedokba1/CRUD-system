@@ -1,0 +1,15 @@
+
+.parent 
+{
+    background-color: tomato;
+    height: 600px;
+    display:flex; 
+    justify-content: space-around;
+}
+.child 
+{
+    background-color:#09c;
+    width:15%;
+    height:50px;
+
+}
